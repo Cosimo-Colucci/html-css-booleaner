@@ -10,3 +10,17 @@ header{
     position: absolute;
     bottom: 0;
 }
+
+h1{
+    margin-bottom: 0;
+}
+
+#blue{
+    color: blueviolet;
+}
+
+#smaller{
+    font-size: 12px;
+    display: block;
+}
+
