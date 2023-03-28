@@ -33,3 +33,13 @@ h1{
 .evidenziato{
     background-color: yellow;
 }
+
+#row-blue{
+    background-color: blue;
+    color: white;
+}
+
+.row-lighblue{
+    background-color: lightblue;
+}
+
